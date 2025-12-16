@@ -7,6 +7,32 @@ const users = [
     email: 'user@nextmail.com',
     password: '123456',
   },
+  {
+    id: '8f3c5e2a-9b1d-4f7e-a3c6-d8e9f0a1b2c3',
+    name: 'Afrizal Fikri',
+    email: 'afrizal@gmail.com',
+    password: 'afrizal123',
+  },
+  {
+    id: '7a2b4c6d-8e9f-4a1b-9c3d-5e6f7a8b9c0d',
+    name: 'Bob Smith',
+    email: 'bob@nextmail.com',
+    password: 'bob456',
+  },
+  {
+    id: '6d5e4f3a-2b1c-4d9e-8f7a-6b5c4d3e2f1a',
+    name: 'Charlie Brown',
+    email: 'charlie@nextmail.com',
+    password: 'charlie789',
+  },
+  {
+    id: '9e8f7a6b-5c4d-3e2f-1a0b-9c8d7e6f5a4b',
+    name: 'Diana Prince',
+    email: 'diana@nextmail.com',
+    password: 'diana321',
+  },
+
+  
 ];
 
 const customers = [
